@@ -1,0 +1,18 @@
+n=1000;
+
+constant: 0(1) => 1;
+leaner : 0(N) => 1000;
+logarithmatic: 0(logn) => 10;
+square root: 0(sqrt(n)) => 32;
+quadratic : 0(n*n) => 1000000;
+linearithmic: 0(nlogn) => 10000
+
+best worst complexity: 
+1. constant: 0(1) => 1;
+2. logarithmic: 0(logn) => 10;
+3. square root: 0(sqrt(n)) => 32;
+4. leaner : 0(N) => 1000;
+5. linearithmic: 0(nlogn) => 10000
+6. quadratic : 0(n*n) => 1000000;
+
+
